@@ -9,3 +9,4 @@ double total = summa + (summa * dricks);
 double perPerson = total / antalVänner;
 Console.WriteLine("Varje person ska betala: " + perPerson + "kr");
 
+
